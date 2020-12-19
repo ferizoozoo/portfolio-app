@@ -14,7 +14,7 @@ export default class Slider extends React.Component{
                     <div className="hero__caption">
                       <span data-animation="fadeInUp" data-delay=".4s">Get Every Single Solutions.</span>
                       <h1 data-animation="fadeInUp" data-delay=".6s">I’m Backend Programmer Farhad Zohoor</h1>
-                      <p data-animation="fadeInUp" data-delay=".8s">Professional Python Developer</p>
+                      <p data-animation="fadeInUp" data-delay=".8s">Software Developer</p>
                       {/* Hero-btn */}
                       <div className="hero__btn">
                         <a href="#about" className="btn hero-btn" data-animation="fadeInLeft" data-delay=".8s">Learn More</a>
